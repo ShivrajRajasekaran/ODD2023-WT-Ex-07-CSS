@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+    /* CSS rules for desktop devices */
+    body {
+        background-color: lightblue;
+    }
+
+    /* CSS rules for mobile devices */
+    @media only screen and (max-width: 600px) {
+        body {
+            background-color: lightgreen;
+        }
+    }
+</style>
+</head>
+<body>
+    <div>
+    Saveetha Engineering College
+  </div>
+    <ul>
+        <li><a href="https://www.saveetha.ac.in/">SEC Home Page</a></li>
+        <li><a href="http://lms.ai.saveetha.in/my/">My Camu</a></li>
+        <li><a href="https://www.github.com">GitHub</a></li>
+  </body>
+  </html>

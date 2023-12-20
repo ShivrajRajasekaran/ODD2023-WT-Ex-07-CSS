@@ -79,7 +79,7 @@ Close the HTML structure.
 ## OUTPUT: 7(i):
 ![Alt text](cs1.png)
 ![Alt text](cs2.png)
-
+![Alt text](image.png)
 ## Ex-07(ii)-CSS
 
 ## AIM
@@ -139,7 +139,7 @@ End the HTML document by closing all open tags.
 ```
 ## OUTPUT:7(ii):
 ![Alt text](cc1.png)
-
+![Alt text](pro.2.2-1.png)
 ## Ex-07(iii)-CSS Orientation-based Media Query
 
 ## AIM
@@ -201,6 +201,7 @@ Open your HTML file in a web browser and change the orientation of your device t
 
 ## OUTPUT:7(iii):
 ![Alt text](cp1.png)
+![Alt text](pro3.2.png)
 
 ## Ex-07(iv)-CSS Responsive Typography
 
@@ -276,6 +277,7 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 ```
 ## OUTPUT:7(iv):
 ![Alt text](cx1.png)
+![Alt text](pro4.2.png)
 
 ## Ex-07(v)-Print-friendly CSS
 ## AIM
@@ -343,6 +345,7 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 ```
 ## OUTPUT:7(v):
 ![Alt text](ca1.png)
+![Alt text](pro5,2.png)
 
 ## Ex-07(vi)-Dark Mode Implementation
 ## AIM
@@ -407,3 +410,4 @@ Remember to test your website in both light and dark modes to ensure the colors 
 ```
 ## OUTPUT:7(vi):
 ![Alt text](ce1.png)
+![Alt text](pro6,1.png)
