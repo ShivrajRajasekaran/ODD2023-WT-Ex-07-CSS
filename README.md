@@ -411,3 +411,6 @@ Remember to test your website in both light and dark modes to ensure the colors 
 ## OUTPUT:7(vi):
 ![Alt text](ce1.png)
 ![Alt text](pro6,1.png)
+
+## RESULT:
+The output was verified successfully.
